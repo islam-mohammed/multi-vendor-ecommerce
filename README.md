@@ -1,8 +1,6 @@
-# Laravel 10 Multi-Vendor Ecommerce Platform
+# Laravel Multi-Vendor Ecommerce Platform
 
 A feature-rich, scalable multi-vendor e-commerce platform built with Laravel 10. This project provides a complete solution for businesses to manage vendors, products, orders, payments, and customer interactions in a dynamic online marketplace.
-
-![Project Preview](https://via.placeholder.com/800x400?text=Multi-Vendor+Ecommerce+Demo) *(Replace with actual screenshot or demo link)*
 
 ## Features
 
